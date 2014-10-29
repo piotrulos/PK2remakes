@@ -9,6 +9,8 @@ Folders:
 * Pekka Kana 2 Modern - Main XNA remake
 * pekka kana 2 - A first attempt to update original source code (windows forms)
 
+in Pekka Kana 2 Modern folder you can find level editor but it was early prototype and it's hard to use
+
 If you want to compile use Visual Studio 2010. For xna remake you need XNA 4 framework.
 
 Original source code need Visual C++ 6 and directX SDK.
