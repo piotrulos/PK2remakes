@@ -1,0 +1,6 @@
+D:\programowanie_c\Pekka Kana 2 Modern\TileEngine\bin\x86\Release\TileEngine.dll
+D:\programowanie_c\Pekka Kana 2 Modern\TileEngine\bin\x86\Release\TileEngine.pdb
+D:\programowanie_c\Pekka Kana 2 Modern\TileEngine\obj\x86\Release\TileEngine.csprojResolveAssemblyReference.cache
+D:\programowanie_c\Pekka Kana 2 Modern\TileEngine\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\programowanie_c\Pekka Kana 2 Modern\TileEngine\obj\x86\Release\TileEngine.dll
+D:\programowanie_c\Pekka Kana 2 Modern\TileEngine\obj\x86\Release\TileEngine.pdb

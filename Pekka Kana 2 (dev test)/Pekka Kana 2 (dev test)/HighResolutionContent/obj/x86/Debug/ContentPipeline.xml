@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\Gem.png</Source>
+      <Name>Sprites\Gem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\Gem.xnb</Output>
+      <Time>2009-05-14T10:57:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Exit.png</Source>
+      <Name>Tiles\Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Tiles\Exit.xnb</Output>
+      <Time>2009-05-14T10:57:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Celebrate.png</Source>
+      <Name>Sprites\Player\Celebrate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\Player\Celebrate.xnb</Output>
+      <Time>2009-05-14T10:57:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Die.png</Source>
+      <Name>Sprites\Player\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\Player\Die.xnb</Output>
+      <Time>2009-05-14T10:57:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Idle.png</Source>
+      <Name>Sprites\Player\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\Player\Idle.xnb</Output>
+      <Time>2011-06-16T19:21:28.1984+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Jump.png</Source>
+      <Name>Sprites\Player\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\Player\Jump.xnb</Output>
+      <Time>2011-06-16T19:30:34.4404+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Run.png</Source>
+      <Name>Sprites\Player\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\Player\Run.xnb</Output>
+      <Time>2011-06-16T19:31:11.9694+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterA\Idle.png</Source>
+      <Name>Sprites\MonsterA\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb</Output>
+      <Time>2009-05-14T10:57:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterA\Run.png</Source>
+      <Name>Sprites\MonsterA\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb</Output>
+      <Time>2009-05-14T10:57:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterB\Idle.png</Source>
+      <Name>Sprites\MonsterB\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\MonsterB\Idle.xnb</Output>
+      <Time>2009-05-14T10:57:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterB\Run.png</Source>
+      <Name>Sprites\MonsterB\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb</Output>
+      <Time>2009-05-14T10:57:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterC\Idle.png</Source>
+      <Name>Sprites\MonsterC\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\MonsterC\Idle.xnb</Output>
+      <Time>2009-05-14T10:57:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterC\Run.png</Source>
+      <Name>Sprites\MonsterC\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb</Output>
+      <Time>2009-05-14T10:57:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterD\Idle.png</Source>
+      <Name>Sprites\MonsterD\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\MonsterD\Idle.xnb</Output>
+      <Time>2009-05-14T10:57:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterD\Run.png</Source>
+      <Name>Sprites\MonsterD\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\MonsterD\Run.xnb</Output>
+      <Time>2009-05-14T10:57:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA0.png</Source>
+      <Name>Tiles\BlockA0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Tiles\BlockA0.xnb</Output>
+      <Time>2009-05-14T10:57:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA1.png</Source>
+      <Name>Tiles\BlockA1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Tiles\BlockA1.xnb</Output>
+      <Time>2009-05-14T10:57:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA2.png</Source>
+      <Name>Tiles\BlockA2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Tiles\BlockA2.xnb</Output>
+      <Time>2009-05-14T10:57:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA3.png</Source>
+      <Name>Tiles\BlockA3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Tiles\BlockA3.xnb</Output>
+      <Time>2009-05-14T10:57:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA4.png</Source>
+      <Name>Tiles\BlockA4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Tiles\BlockA4.xnb</Output>
+      <Time>2009-05-14T10:57:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA5.png</Source>
+      <Name>Tiles\BlockA5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Tiles\BlockA5.xnb</Output>
+      <Time>2009-05-14T10:57:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA6.png</Source>
+      <Name>Tiles\BlockA6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Tiles\BlockA6.xnb</Output>
+      <Time>2009-05-14T10:57:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockB0.png</Source>
+      <Name>Tiles\BlockB0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Tiles\BlockB0.xnb</Output>
+      <Time>2009-05-14T10:57:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockB1.png</Source>
+      <Name>Tiles\BlockB1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Tiles\BlockB1.xnb</Output>
+      <Time>2009-05-14T10:57:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Platform.png</Source>
+      <Name>Tiles\Platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Tiles\Platform.xnb</Output>
+      <Time>2009-05-14T10:57:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_0.png</Source>
+      <Name>Backgrounds\Layer0_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Backgrounds\Layer0_0.xnb</Output>
+      <Time>2009-05-14T10:57:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_1.png</Source>
+      <Name>Backgrounds\Layer0_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Backgrounds\Layer0_1.xnb</Output>
+      <Time>2009-05-14T10:57:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_2.png</Source>
+      <Name>Backgrounds\Layer0_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Backgrounds\Layer0_2.xnb</Output>
+      <Time>2009-05-14T10:57:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer1_0.png</Source>
+      <Name>Backgrounds\Layer1_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Backgrounds\Layer1_0.xnb</Output>
+      <Time>2009-05-14T10:57:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer1_1.png</Source>
+      <Name>Backgrounds\Layer1_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Backgrounds\Layer1_1.xnb</Output>
+      <Time>2009-05-14T10:57:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer1_2.png</Source>
+      <Name>Backgrounds\Layer1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Backgrounds\Layer1_2.xnb</Output>
+      <Time>2009-05-14T10:57:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer2_0.png</Source>
+      <Name>Backgrounds\Layer2_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Backgrounds\Layer2_0.xnb</Output>
+      <Time>2009-05-14T10:57:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer2_1.png</Source>
+      <Name>Backgrounds\Layer2_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Backgrounds\Layer2_1.xnb</Output>
+      <Time>2009-05-14T10:57:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer2_2.png</Source>
+      <Name>Backgrounds\Layer2_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Backgrounds\Layer2_2.xnb</Output>
+      <Time>2009-05-14T10:57:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Overlays\you_died.png</Source>
+      <Name>Overlays\you_died</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Overlays\you_died.xnb</Output>
+      <Time>2009-05-14T10:57:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Overlays\you_lose.png</Source>
+      <Name>Overlays\you_lose</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Overlays\you_lose.xnb</Output>
+      <Time>2009-05-14T10:57:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Overlays\you_win.png</Source>
+      <Name>Overlays\you_win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Overlays\you_win.xnb</Output>
+      <Time>2009-05-14T10:57:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Hud.spritefont</Source>
+      <Name>Fonts\Hud</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Fonts\Hud.xnb</Output>
+      <Time>2009-05-14T10:57:52+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\HighResolutionContent\</RootDirectory>
+      <LoggerRootDirectory>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\HighResolutionContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-06-16T16:29:38.8654+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

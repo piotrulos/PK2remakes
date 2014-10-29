@@ -1,0 +1,5 @@
+D:\programowanie_c\Pekka Kana 2 Modern\TileEngine\bin\x86\Debug\TileEngine.dll
+D:\programowanie_c\Pekka Kana 2 Modern\TileEngine\bin\x86\Debug\TileEngine.pdb
+D:\programowanie_c\Pekka Kana 2 Modern\TileEngine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\programowanie_c\Pekka Kana 2 Modern\TileEngine\obj\x86\Debug\TileEngine.dll
+D:\programowanie_c\Pekka Kana 2 Modern\TileEngine\obj\x86\Debug\TileEngine.pdb

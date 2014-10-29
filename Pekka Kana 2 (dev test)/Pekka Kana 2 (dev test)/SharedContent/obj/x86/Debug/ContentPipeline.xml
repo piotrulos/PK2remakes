@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sounds\ExitReached.wma</Source>
+      <Name>Sounds\ExitReached</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sounds\ExitReached.xnb</Output>
+      <Time>2009-05-14T10:57:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\GemCollected.wma</Source>
+      <Name>Sounds\GemCollected</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sounds\GemCollected.xnb</Output>
+      <Time>2009-05-14T10:57:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Music.wma</Source>
+      <Name>Sounds\Music</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sounds\Music.xnb</Output>
+      <Extra>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sounds\Music.wma</Extra>
+      <Time>2009-05-14T10:57:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PlayerFall.wma</Source>
+      <Name>Sounds\PlayerFall</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sounds\PlayerFall.xnb</Output>
+      <Time>2009-05-14T10:57:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PlayerJump.wma</Source>
+      <Name>Sounds\PlayerJump</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sounds\PlayerJump.xnb</Output>
+      <Time>2009-05-14T10:57:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PlayerKilled.wma</Source>
+      <Name>Sounds\PlayerKilled</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb</Output>
+      <Time>2009-05-14T10:57:56+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\SharedContent\</RootDirectory>
+      <LoggerRootDirectory>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\SharedContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-06-16T16:29:38.8654+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

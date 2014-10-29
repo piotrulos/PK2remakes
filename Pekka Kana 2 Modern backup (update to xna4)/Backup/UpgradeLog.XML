@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Pekka Kana 2 Modern">
+</Property><Property Name="Solution File" Value="D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Pekka Kana 2 Modern.sln">
+</Property><Property Name="User Options File" Value="D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Pekka Kana 2 Modern.suo">
+</Property><Property Name="Date" Value="25 sierpnia 2012">
+</Property><Property Name="Time" Value="11:56">
+</Property><Property Name="Solution" Value="Pekka Kana 2 Modern">
+</Property><Property Name="Solution File" Value="D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Pekka Kana 2 Modern.sln">
+</Property><Property Name="Date" Value="25 sierpnia 2012">
+</Property><Property Name="Time" Value="11:56:37">
+</Property><Property Name="Solution" Value="Pekka Kana 2 Modern">
+</Property><Property Name="Solution File" Value="D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Pekka Kana 2 Modern.sln">
+</Property><Property Name="Date" Value="25 sierpnia 2012">
+</Property><Property Name="Time" Value="11:56:42">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Pekka Kana 2 Modern.sln" Description="File successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\Pekka Kana 2 Modern.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Pekka Kana 2 Modern.suo" Description="File successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\Pekka Kana 2 Modern.suo">
+</Event><Event ErrorLevel="0" Project="Pekka Kana 2 Modern" Source="Pekka Kana 2 Modern\Pekka Kana 2 Modern.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Pekka Kana 2 Modern" Source="Pekka Kana 2 Modern\Pekka Kana 2 Modern.csproj" Description="Project file successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\Pekka Kana 2 Modern\Pekka Kana 2 Modern.csproj">
+</Event><Event ErrorLevel="0" Project="Pekka Kana 2 Modern" Source="Pekka Kana 2 Modern\Pekka Kana 2 Modern.csproj.user" Description="Project user file successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\Pekka Kana 2 Modern\Pekka Kana 2 Modern.csproj.user">
+</Event><Event ErrorLevel="0" Project="Pekka Kana 2 Modern" Source="Pekka Kana 2 Modern\AnimationStrip.cs" Description="File successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\Pekka Kana 2 Modern\AnimationStrip.cs">
+</Event><Event ErrorLevel="0" Project="Pekka Kana 2 Modern" Source="Pekka Kana 2 Modern\GameObject.cs" Description="File successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\Pekka Kana 2 Modern\GameObject.cs">
+</Event><Event ErrorLevel="0" Project="Pekka Kana 2 Modern" Source="Pekka Kana 2 Modern\LevelManager.cs" Description="File successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\Pekka Kana 2 Modern\LevelManager.cs">
+</Event><Event ErrorLevel="0" Project="Pekka Kana 2 Modern" Source="Pekka Kana 2 Modern\Player.cs" Description="File successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\Pekka Kana 2 Modern\Player.cs">
+</Event><Event ErrorLevel="0" Project="Pekka Kana 2 Modern" Source="Pekka Kana 2 Modern\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\Pekka Kana 2 Modern\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Pekka Kana 2 Modern" Source="Pekka Kana 2 Modern\Program.cs" Description="File successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\Pekka Kana 2 Modern\Program.cs">
+</Event><Event ErrorLevel="0" Project="Pekka Kana 2 Modern" Source="Pekka Kana 2 Modern\Game1.cs" Description="File successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\Pekka Kana 2 Modern\Game1.cs">
+</Event><Event ErrorLevel="0" Project="Pekka Kana 2 Modern" Source="Pekka Kana 2 Modern\Game.ico" Description="File successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\Pekka Kana 2 Modern\Game.ico">
+</Event><Event ErrorLevel="0" Project="Pekka Kana 2 Modern" Source="Pekka Kana 2 Modern\GameThumbnail.png" Description="File successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\Pekka Kana 2 Modern\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="Pekka Kana 2 Modern" Source="Pekka Kana 2 Modern\Pekka Kana 2 Modern.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Pekka Kana 2 Modern" Source="Pekka Kana 2 Modern\Pekka Kana 2 Modern.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TileEngine" Source="TileEngine\TileEngine.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="TileEngine" Source="TileEngine\TileEngine.csproj" Description="Project file successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\TileEngine\TileEngine.csproj">
+</Event><Event ErrorLevel="0" Project="TileEngine" Source="TileEngine\TileEngine.csproj.user" Description="Project user file successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\TileEngine\TileEngine.csproj.user">
+</Event><Event ErrorLevel="0" Project="TileEngine" Source="TileEngine\TileMap.cs" Description="File successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\TileEngine\TileMap.cs">
+</Event><Event ErrorLevel="0" Project="TileEngine" Source="TileEngine\Camera.cs" Description="File successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\TileEngine\Camera.cs">
+</Event><Event ErrorLevel="0" Project="TileEngine" Source="TileEngine\MapSquare.cs" Description="File successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\TileEngine\MapSquare.cs">
+</Event><Event ErrorLevel="0" Project="TileEngine" Source="TileEngine\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\TileEngine\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TileEngine" Source="TileEngine\TileEngine.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TileEngine" Source="TileEngine\TileEngine.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LevelEditor" Source="LevelEditor\LevelEditor.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="LevelEditor" Source="LevelEditor\LevelEditor.csproj" Description="Project file successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\LevelEditor\LevelEditor.csproj">
+</Event><Event ErrorLevel="0" Project="LevelEditor" Source="LevelEditor\LevelEditor.csproj.user" Description="Project user file successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\LevelEditor\LevelEditor.csproj.user">
+</Event><Event ErrorLevel="0" Project="LevelEditor" Source="LevelEditor\MapEditor.cs" Description="File successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\LevelEditor\MapEditor.cs">
+</Event><Event ErrorLevel="0" Project="LevelEditor" Source="LevelEditor\MapEditor.Designer.cs" Description="File successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\LevelEditor\MapEditor.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LevelEditor" Source="LevelEditor\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\LevelEditor\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LevelEditor" Source="LevelEditor\Program.cs" Description="File successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\LevelEditor\Program.cs">
+</Event><Event ErrorLevel="0" Project="LevelEditor" Source="LevelEditor\Game1.cs" Description="File successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\LevelEditor\Game1.cs">
+</Event><Event ErrorLevel="0" Project="LevelEditor" Source="LevelEditor\Game.ico" Description="File successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\LevelEditor\Game.ico">
+</Event><Event ErrorLevel="0" Project="LevelEditor" Source="LevelEditor\GameThumbnail.png" Description="File successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\LevelEditor\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="LevelEditor" Source="LevelEditor\MapEditor.resx" Description="File successfully backed up as D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Backup\LevelEditor\MapEditor.resx">
+</Event><Event ErrorLevel="0" Project="LevelEditor" Source="LevelEditor\LevelEditor.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LevelEditor" Source="LevelEditor\LevelEditor.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Pekka Kana 2 Modern.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Pekka Kana 2 Modern.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Pekka Kana 2 Modern" Source="Pekka Kana 2 Modern\Pekka Kana 2 Modern.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Pekka Kana 2 Modern" Source="Pekka Kana 2 Modern\Pekka Kana 2 Modern.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="pk2.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="MAP000.MAP" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Die.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Idle.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Jump.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Run.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="tiles.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Pekka Kana 2 ModernContent" Source="Pekka Kana 2 Modern\Content\Pekka Kana 2 ModernContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event><Event ErrorLevel="0" Project="TileEngine" Source="TileEngine\TileEngine.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="TileEngine" Source="TileEngine\TileEngine.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="TileEngine" Source="Content\Content.contentproj" Description="Upgrade of Library project 'TileEngine' removed a reference to the empty Content Project 'D:\programowanie_c\Pekka Kana 2 Modern9\Backup\TileEngine\Content\Content.contentproj'.">
+</Event><Event ErrorLevel="0" Project="LevelEditor" Source="LevelEditor\LevelEditor.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="LevelEditor" Source="LevelEditor\LevelEditor.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="pk2.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="tiles.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="LevelEditorContent" Source="LevelEditor\Content\LevelEditorContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

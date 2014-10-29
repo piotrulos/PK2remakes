@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Font\pk2.spritefont</Source>
+      <Name>Font\pk2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Content\Font\pk2.xnb</Output>
+      <Time>2011-06-28T15:08:58.9492+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Tiles\tiles.png</Source>
+      <Name>Textures\Tiles\tiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Content\Textures\Tiles\tiles.xnb</Output>
+      <Time>2011-06-28T19:53:31.3502+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Pekka\Run.png</Source>
+      <Name>Textures\Sprites\Pekka\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Content\Textures\Sprites\Pekka\Run.xnb</Output>
+      <Time>2013-01-02T16:53:36.504366+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Pekka\Die.png</Source>
+      <Name>Textures\Sprites\Pekka\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Content\Textures\Sprites\Pekka\Die.xnb</Output>
+      <Time>2013-01-02T16:52:28.0114484+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Pekka\Idle.png</Source>
+      <Name>Textures\Sprites\Pekka\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Content\Textures\Sprites\Pekka\Idle.xnb</Output>
+      <Time>2013-01-02T16:49:20.9387485+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Pekka\Jump.png</Source>
+      <Name>Textures\Sprites\Pekka\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Content\Textures\Sprites\Pekka\Jump.xnb</Output>
+      <Time>2013-01-02T16:50:19.1190762+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\menub.png</Source>
+      <Name>Textures\menub</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Content\Textures\menub.xnb</Output>
+      <Time>2013-01-02T18:19:45.0149879+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\button.png</Source>
+      <Name>Textures\button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Content\Textures\button.xnb</Output>
+      <Time>2013-01-02T18:19:45.9220398+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Scenery\backtest.png</Source>
+      <Name>Textures\Scenery\backtest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Content\Textures\Scenery\backtest.xnb</Output>
+      <Time>2013-01-02T18:44:27.4197766+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{AC710DFB-A888-453D-A4E0-0E93098CB1AE}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>D:\programowanie_c\Pekka Kana 2 Modern\TileEngine\bin\x86\Debug\TileEngine.dll</Key>
+        <Value>2014-10-29T16:05:44.8836891+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-11-03T18:43:49.8233659+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

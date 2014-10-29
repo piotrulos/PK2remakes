@@ -1,0 +1,20 @@
+D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Content\Font\pk2.xnb
+D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Content\Textures\Sprites\Pekka\Run.xnb
+D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Content\Textures\Sprites\Pekka\Die.xnb
+D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Content\Textures\Sprites\Pekka\Idle.xnb
+D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Content\Textures\Sprites\Pekka\Jump.xnb
+D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Content\Maps\MAP000.MAP
+D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Pekka Kana 2 Modern.exe
+D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Pekka Kana 2 Modern.pdb
+D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\TileEngine.dll
+D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\TileEngine.pdb
+D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\obj\x86\Debug\Pekka Kana 2 Modern.exe
+D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\obj\x86\Debug\Pekka Kana 2 Modern.pdb
+D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Content\Textures\menub.xnb
+D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Content\Textures\button.xnb
+D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Content\Textures\menub.png
+D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Content\Textures\button.png
+D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Content\Textures\Tiles\tiles.xnb
+D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\bin\x86\Debug\Content\Textures\Scenery\backtest.xnb
+D:\programowanie_c\Pekka Kana 2 Modern\Pekka Kana 2 Modern\obj\x86\Debug\Pekka Kana 2 Modern.csprojResolveAssemblyReference.cache

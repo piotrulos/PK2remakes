@@ -1,0 +1,54 @@
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Tiles\BlockB0.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\MonsterB\Idle.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sounds\ExitReached.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Backgrounds\Layer1_0.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Overlays\you_lose.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sounds\Music.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Overlays\you_died.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sounds\GemCollected.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Fonts\Hud.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Backgrounds\Layer0_1.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Backgrounds\Layer2_0.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Tiles\BlockA2.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Tiles\BlockA1.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Backgrounds\Layer1_2.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Tiles\BlockA0.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\Gem.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Tiles\BlockA6.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Tiles\BlockA5.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Tiles\BlockA3.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Overlays\you_win.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Tiles\BlockA4.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Backgrounds\Layer0_0.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\MonsterC\Idle.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Backgrounds\Layer0_2.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Tiles\Platform.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Backgrounds\Layer1_1.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\Player\Celebrate.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Backgrounds\Layer2_2.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sounds\Music.wma
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\MonsterD\Idle.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Tiles\Exit.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Tiles\BlockB1.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Backgrounds\Layer2_1.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Sprites\MonsterD\Run.xnb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Levels\2.txt
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Levels\1.txt
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Content\Levels\0.txt
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Pekka Kana 2 (dev test).exe
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\bin\x86\Debug\Pekka Kana 2 (dev test).pdb
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\obj\x86\Debug\Pekka Kana 2 (dev test).exe
+D:\programowanie_c\Pekka Kana 2 (dev test)\Pekka Kana 2 (dev test)\obj\x86\Debug\Pekka Kana 2 (dev test).pdb

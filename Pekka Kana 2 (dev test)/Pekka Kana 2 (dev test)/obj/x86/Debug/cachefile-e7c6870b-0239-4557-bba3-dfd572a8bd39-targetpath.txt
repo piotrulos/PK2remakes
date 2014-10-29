@@ -1,0 +1,7 @@
+Content\Sounds\ExitReached.xnb
+Content\Sounds\GemCollected.xnb
+Content\Sounds\Music.xnb
+Content\Sounds\Music.wma
+Content\Sounds\PlayerFall.xnb
+Content\Sounds\PlayerJump.xnb
+Content\Sounds\PlayerKilled.xnb

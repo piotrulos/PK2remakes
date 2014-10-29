@@ -1,0 +1,7 @@
+Content\Font\pk2.xnb
+Content\Textures\tiles.xnb
+Content\Textures\Sprites\Pekka\Run.xnb
+Content\Textures\Sprites\Pekka\Die.xnb
+Content\Textures\Sprites\Pekka\Idle.xnb
+Content\Textures\Sprites\Pekka\Jump.xnb
+Content\Maps\MAP000.MAP

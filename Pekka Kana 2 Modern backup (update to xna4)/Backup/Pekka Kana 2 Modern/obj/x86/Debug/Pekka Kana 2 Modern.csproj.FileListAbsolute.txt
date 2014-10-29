@@ -1,0 +1,2 @@
+D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Pekka Kana 2 Modern\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\programowanie_c\Pekka Kana 2 Modern9\Backup\Pekka Kana 2 Modern\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
